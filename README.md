@@ -1,16 +1,13 @@
-## Hi there 👋
+<H1> <strong>John Pete Perez Casapao</strong></H1>
 
-<!--
-**jpcasapao/jpcasapao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<H2> Education </H2>
+<p> <strong> College Undergraduate </strong> 
+<br> New Era Unviersity 2023 - Present</p>
 
-Here are some ideas to get you started:
+<p><strong>Senior High School </strong>
+<br>Eclaro Academy 2021 - 2023 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<H2> Certifications</H2>
+<br> SQL and Relational Databases 101
+
+<H2> Skillsets </H2>
