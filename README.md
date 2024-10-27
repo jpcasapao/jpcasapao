@@ -4,10 +4,10 @@
 <p> <strong> College Undergraduate </strong> 
 <br> New Era Unviersity 2023 - Present</p>
 
-<p><strong>Senior High School </strong>
-<br>Eclaro Academy 2021 - 2023 </p>
+<p><strong>Senior High School - Highschool </strong>
+<br>Eclaro Academy 2017 - 2023 </p>
 
 <H2> Certifications</H2>
-<br> SQL and Relational Databases 101
+<a href="https://courses.cognitiveclass.ai/certificates/f912ec02987e4a4e8a328d9c24bffb2d">SQL and Relational Databases 101</a>
 
 <H2> Skillsets </H2>
