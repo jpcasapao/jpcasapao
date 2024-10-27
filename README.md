@@ -11,3 +11,5 @@
 <a href="https://courses.cognitiveclass.ai/certificates/f912ec02987e4a4e8a328d9c24bffb2d">SQL and Relational Databases 101</a>
 
 <H2> Skillsets </H2>
+<p> Java Language
+<br>HTML</p>
