@@ -13,6 +13,8 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=01F1E267219286693A4EA68EB66803CE32950C218B56C144AF7491A11F299C25&fbclid=IwY2xjawG5VjVleHRuA2FlbQIxMQABHWyJixTpDI6-_hkgDMwPnoVmEOwMvr3IhjMkkyhB6zSAiQC1QyBjn5yKIw_aem_Z856qVXdf3TtbcLuu6L3zQ">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a> 
 <br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=01F1E267219286693A4EA68EB66803CE2B59F37F4A2055A8474A3D8F92C86DB6&fbclid=IwY2xjawHCgBtleHRuA2FlbQIxMQABHaa9wXQ3lBKEJisVdftIufYAMKuU6HDCbJbZdzU3Qs3YS145rUp7b_CJhQ_aem_7yLbx-E6_P8RyhBshVA8aw">  Oracle Cloud Infrastructure 2024 Data Foundations Associate</a> 
+<br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9994C3264DB64015CE47AAB1C3EAF2EC45B1D06970D97934605E8F7B2AD24DAC"> Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a>
 <H2> Skillsets </H2>
 <p> Java Language
 <br>HTML</p>
